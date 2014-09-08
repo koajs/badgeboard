@@ -77,6 +77,26 @@ projects:
      repo: koajs/rewrite
  - koa-common:
      repo: koajs/common
+ - koa-generic-session:
+     repo: koajs/generic-session
+ - koa-ejs:
+     repo: koajs/ejs
+ - kick-off-koa:
+     repo: koajs/kick-off-koa
+ - koa-snapshot:
+     repo: koajs/koa-snapshot
+ - koa-onerror:
+     repo: koajs/onerror
+ - koa-static-cache:
+     repo: koajs/static-cache
+ - koa-charset:
+     repo: koajs/charset
+ - koa-redis:
+     repo: koajs/redis
+ - koa-bodyparser:
+     repo: koajs/body-parser
+ - koa-userauth:
+     repo: koajs/userauth
 
 # list of maintainers, this won't be sorted
 maintainers:
@@ -97,6 +117,13 @@ maintainers:
    # if gravatar is attached to an email different from specified above,
    # add md5 of it here:
    avatar:  6e33cc0412b61cc01daac23c8989003c
+
+ - name:    Yiyu He
+   github:  dead-horse
+   npm:     dead_horse
+   twitter: deadhorse_busi
+   gittip:  dead-horse
+   email:   heyiyu.deadhorse@gmail.com
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests
