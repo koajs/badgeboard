@@ -3,6 +3,9 @@
   "//2": "you're free to change it as you like,",
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
+    "dead_horse": {
+      "packages": 138
+    },
     "jongleberry": {
       "packages": 436
     },
@@ -11,6 +14,11 @@
     }
   },
   "projects": {
+    "kick-off-koa": {
+      "description": "An intro to koa via a set of self-guided workshops",
+      "maintainer": "dead_horse",
+      "node": "0.11"
+    },
     "koa": {
       "description": "Koa web app framework",
       "maintainer": "tjholowaychuk",
@@ -21,9 +29,19 @@
       "maintainer": "tjholowaychuk",
       "node": "0.11"
     },
+    "koa-bodyparser": {
+      "description": "a body parser for koa",
+      "maintainer": "dead_horse",
+      "node": "0.11"
+    },
     "koa-cash": {
       "description": "HTTP response caching for Koa",
       "maintainer": "jongleberry"
+    },
+    "koa-charset": {
+      "description": "use iconv-lite to encode the body and set charset to content-type",
+      "maintainer": "dead_horse",
+      "node": "0.11"
     },
     "koa-common": {
       "description": "Common middleware aggregate module for lazy people",
@@ -53,6 +71,11 @@
       "maintainer": "jongleberry",
       "node": "0.11"
     },
+    "koa-ejs": {
+      "description": "ejs render middleware for koa",
+      "maintainer": "dead_horse",
+      "node": "0.11"
+    },
     "koa-error": {
       "description": "Error reponses (text, json, html) for koa",
       "maintainer": "tjholowaychuk"
@@ -70,6 +93,11 @@
     "koa-file-server": {
       "description": "file serving middleware for koa",
       "maintainer": "jongleberry",
+      "node": "0.11"
+    },
+    "koa-generic-session": {
+      "description": "koa generic session store by memory, redis or others",
+      "maintainer": "dead_horse",
       "node": "0.11"
     },
     "koa-html-minifier": {
@@ -102,6 +130,11 @@
       "maintainer": "tjholowaychuk",
       "node": "0.11"
     },
+    "koa-onerror": {
+      "description": "koa error handler, hack ctx.onerror",
+      "maintainer": "dead_horse",
+      "node": "0.11"
+    },
     "koa-path-match": {
       "description": "koa route middleware",
       "maintainer": "jongleberry",
@@ -115,6 +148,10 @@
     "koa-ratelimit": {
       "description": "Rate limiter middleware for koa",
       "maintainer": "tjholowaychuk"
+    },
+    "koa-redis": {
+      "description": "koa session with redis",
+      "maintainer": "dead_horse"
     },
     "koa-rewrite": {
       "description": "URL rewrite middleware for koa",
@@ -140,6 +177,10 @@
       "maintainer": "jongleberry",
       "node": "0.11"
     },
+    "koa-snapshot": {
+      "description": "take a snapshot for each url",
+      "maintainer": "dead_horse"
+    },
     "koa-spdy-push": {
       "description": "SPDY Push helper for Koa",
       "maintainer": "jongleberry",
@@ -150,6 +191,11 @@
       "maintainer": "jongleberry",
       "node": "0.11"
     },
+    "koa-static-cache": {
+      "description": "Static cache for koa",
+      "maintainer": "dead_horse",
+      "node": "0.11"
+    },
     "koa-trace": {
       "description": "generic tracing for koa",
       "maintainer": "jongleberry"
@@ -157,6 +203,11 @@
     "koa-trie-router": {
       "description": "Trie-routing for Koa",
       "maintainer": "jongleberry",
+      "node": "0.11"
+    },
+    "koa-userauth": {
+      "description": "user auth middleware for koa",
+      "maintainer": "dead_horse",
       "node": "0.11"
     },
     "koala": {
