@@ -59,7 +59,8 @@
     },
     "koa-compressor": {
       "description": "Compress middleware for koa that always compresses",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.11"
     },
     "koa-conditional-get": {
       "description": "Conditional GET support for koa",
