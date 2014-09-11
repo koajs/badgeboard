@@ -97,6 +97,12 @@ projects:
      repo: koajs/body-parser
  - koa-userauth:
      repo: koajs/userauth
+ - koa-safe-jsonp:
+     repo: koajs/koa-safe-jsonp
+ - koa-lusca:
+     repo: koajs/koa-lusca
+ - koa-roles:
+     repo: koajs/koa-roles
 
 # list of maintainers, this won't be sorted
 maintainers:
@@ -124,6 +130,13 @@ maintainers:
    twitter: deadhorse_busi
    gittip:  dead-horse
    email:   heyiyu.deadhorse@gmail.com
+
+ - name:    Feng Yuan
+   github:  fengmk2
+   npm:     fengmk2
+   twitter: fengmk2
+   gittip:  fengmk2
+   email:   fengmk2@gmail.com
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests

@@ -211,6 +211,21 @@
       "maintainer": "dead_horse",
       "node": "0.11"
     },
+    "koa-safe-jsonp": {
+      "description": "Safe jsonp plusins for koa",
+      "maintainer": "fengmk2",
+      "node": "0.11"
+    },
+    "koa-lusca": {
+      "description": "Application security for express and koa",
+      "maintainer": "fengmk2",
+      "node": "0.11"
+    },
+    "koa-roles": {
+      "description": "koa version of Connect-Roles",
+      "maintainer": "fengmk2",
+      "node": "0.11"
+    },
     "koala": {
       "description": "Koa Framework Suite",
       "maintainer": "jongleberry",
