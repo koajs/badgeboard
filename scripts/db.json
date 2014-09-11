@@ -24,7 +24,7 @@
     },
     "koa": {
       "description": "Koa web app framework",
-      "maintainer": "tjholowaychuk",
+      "maintainer": "jongleberry",
       "node": "0.11"
     },
     "koa-basic-auth": {
@@ -129,6 +129,11 @@
       "description": "Logging middleware for koa",
       "maintainer": "jongleberry"
     },
+    "koa-lusca": {
+      "description": "Application security for express and koa.",
+      "maintainer": "fengmk2",
+      "node": "0.11"
+    },
     "koa-mount": {
       "description": "Mounting middleware for koa",
       "maintainer": "tjholowaychuk",
@@ -162,9 +167,19 @@
       "maintainer": "tjholowaychuk",
       "node": "0.11"
     },
+    "koa-roles": {
+      "description": "koa version of Connect-Roles",
+      "maintainer": "fengmk2",
+      "node": "0.11"
+    },
     "koa-route": {
       "description": "Koa route middleware",
       "maintainer": "jongleberry",
+      "node": "0.11"
+    },
+    "koa-safe-jsonp": {
+      "description": "Safe jsonp plusins for koa.",
+      "maintainer": "fengmk2",
       "node": "0.11"
     },
     "koa-send": {
@@ -174,7 +189,8 @@
     },
     "koa-sendfile": {
       "description": "basic file-sending utility for koa",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.11"
     },
     "koa-session": {
       "description": "Koa cookie session middleware",
@@ -212,21 +228,6 @@
     "koa-userauth": {
       "description": "user auth middleware for koa",
       "maintainer": "dead_horse",
-      "node": "0.11"
-    },
-    "koa-safe-jsonp": {
-      "description": "Safe jsonp plusins for koa",
-      "maintainer": "fengmk2",
-      "node": "0.11"
-    },
-    "koa-lusca": {
-      "description": "Application security for express and koa",
-      "maintainer": "fengmk2",
-      "node": "0.11"
-    },
-    "koa-roles": {
-      "description": "koa version of Connect-Roles",
-      "maintainer": "fengmk2",
       "node": "0.11"
     },
     "koala": {
