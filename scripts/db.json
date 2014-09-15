@@ -29,7 +29,7 @@
     },
     "koa-basic-auth": {
       "description": "Blanket basic auth middleware for koa",
-      "maintainer": "tjholowaychuk",
+      "maintainer": "jongleberry",
       "node": "0.11"
     },
     "koa-bodyparser": {
@@ -39,7 +39,8 @@
     },
     "koa-cash": {
       "description": "HTTP response caching for Koa",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.11"
     },
     "koa-charset": {
       "description": "use iconv-lite to encode the body and set charset to content-type",
