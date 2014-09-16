@@ -7,7 +7,7 @@ badge_style: flat-square
 
 # meta headers in html
 title:       koajs
-description:
+description: Next generation web framework for Node.js
 keywords:
 
 # list of projects, this will be sorted by name;
@@ -75,8 +75,6 @@ projects:
      repo: koajs/qs
  - koa-rewrite:
      repo: koajs/rewrite
- - koa-common:
-     repo: koajs/common
  - koa-generic-session:
      repo: koajs/generic-session
  - koa-ejs:

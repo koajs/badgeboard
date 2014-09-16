@@ -47,10 +47,6 @@
       "maintainer": "dead_horse",
       "node": "0.11"
     },
-    "koa-common": {
-      "description": "Common middleware aggregate module for lazy people",
-      "maintainer": "jongleberry"
-    },
     "koa-compose": {
       "description": "compose Koa middleware",
       "maintainer": "tjholowaychuk",
@@ -107,7 +103,8 @@
     },
     "koa-html-minifier": {
       "description": "minify HTML responses like some crazy guy",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.11"
     },
     "koa-is-json": {
       "description": "check if a koa body should be interpreted as JSON",
@@ -120,11 +117,13 @@
     },
     "koa-json-error": {
       "description": "Error handler for pure-JSON apps",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.11"
     },
     "koa-json-filter": {
       "description": "middleware allowing the client to filter the response to only what they need",
-      "maintainer": "tjholowaychuk"
+      "maintainer": "tjholowaychuk",
+      "node": "0.11"
     },
     "koa-logger": {
       "description": "Logging middleware for koa",
