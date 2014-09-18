@@ -29,8 +29,6 @@ projects:
      repo: koajs/route
  - koa-trie-router:
      repo: koajs/trie-router
- - koa-spdy-push:
-     repo: koajs/spdy-push
  - koa-file-server:
      repo: koajs/file-server
  - koa-compressor:

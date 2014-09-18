@@ -156,7 +156,8 @@
     },
     "koa-ratelimit": {
       "description": "Rate limiter middleware for koa",
-      "maintainer": "tjholowaychuk"
+      "maintainer": "tjholowaychuk",
+      "node": "0.11"
     },
     "koa-redis": {
       "description": "koa session with redis",
@@ -200,11 +201,6 @@
     "koa-snapshot": {
       "description": "take a snapshot for each url",
       "maintainer": "dead_horse"
-    },
-    "koa-spdy-push": {
-      "description": "SPDY Push helper for Koa",
-      "maintainer": "jongleberry",
-      "node": "0.11"
     },
     "koa-static": {
       "description": "Static file serving middleware for koa",
